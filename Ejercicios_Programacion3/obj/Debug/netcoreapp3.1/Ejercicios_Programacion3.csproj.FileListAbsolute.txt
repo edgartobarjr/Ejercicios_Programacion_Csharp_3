@@ -1,0 +1,13 @@
+C:\Users\Dell Inspirion 5558\source\repos\Ejercicios_Programacion3\Ejercicios_Programacion3\obj\Debug\netcoreapp3.1\Ejercicios_Programacion3.csprojAssemblyReference.cache
+C:\Users\Dell Inspirion 5558\source\repos\Ejercicios_Programacion3\Ejercicios_Programacion3\obj\Debug\netcoreapp3.1\Ejercicios_Programacion3.AssemblyInfoInputs.cache
+C:\Users\Dell Inspirion 5558\source\repos\Ejercicios_Programacion3\Ejercicios_Programacion3\obj\Debug\netcoreapp3.1\Ejercicios_Programacion3.AssemblyInfo.cs
+C:\Users\Dell Inspirion 5558\source\repos\Ejercicios_Programacion3\Ejercicios_Programacion3\obj\Debug\netcoreapp3.1\Ejercicios_Programacion3.csproj.CoreCompileInputs.cache
+C:\Users\Dell Inspirion 5558\source\repos\Ejercicios_Programacion3\Ejercicios_Programacion3\bin\Debug\netcoreapp3.1\Ejercicios_Programacion3.exe
+C:\Users\Dell Inspirion 5558\source\repos\Ejercicios_Programacion3\Ejercicios_Programacion3\bin\Debug\netcoreapp3.1\Ejercicios_Programacion3.deps.json
+C:\Users\Dell Inspirion 5558\source\repos\Ejercicios_Programacion3\Ejercicios_Programacion3\bin\Debug\netcoreapp3.1\Ejercicios_Programacion3.runtimeconfig.json
+C:\Users\Dell Inspirion 5558\source\repos\Ejercicios_Programacion3\Ejercicios_Programacion3\bin\Debug\netcoreapp3.1\Ejercicios_Programacion3.runtimeconfig.dev.json
+C:\Users\Dell Inspirion 5558\source\repos\Ejercicios_Programacion3\Ejercicios_Programacion3\bin\Debug\netcoreapp3.1\Ejercicios_Programacion3.dll
+C:\Users\Dell Inspirion 5558\source\repos\Ejercicios_Programacion3\Ejercicios_Programacion3\bin\Debug\netcoreapp3.1\Ejercicios_Programacion3.pdb
+C:\Users\Dell Inspirion 5558\source\repos\Ejercicios_Programacion3\Ejercicios_Programacion3\obj\Debug\netcoreapp3.1\Ejercicios_Programacion3.dll
+C:\Users\Dell Inspirion 5558\source\repos\Ejercicios_Programacion3\Ejercicios_Programacion3\obj\Debug\netcoreapp3.1\Ejercicios_Programacion3.pdb
+C:\Users\Dell Inspirion 5558\source\repos\Ejercicios_Programacion3\Ejercicios_Programacion3\obj\Debug\netcoreapp3.1\Ejercicios_Programacion3.genruntimeconfig.cache
