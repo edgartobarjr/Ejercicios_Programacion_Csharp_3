@@ -1,0 +1,37 @@
+Ejercicios C# 3#
+
+1) Calculadora Operadores Basicos
+- Se debe de elegir que operacion desea hacer el usuario
+- Para cada operacion el usuario debe de ingresar los 2 numeros
+- Imprimir los resultados en consola
+- El programa debe preguntar si se desea hacer otra consulta
+- Para la division no se debe permitir dividir entre 0
+- Si se ingresa 0 el programa debe pedir que se ingrese otro numero
+
+2) Sumar sueldos e indicar cuales son mayores a 1000
+- Debe preguntarle al usuario cuandos sueldos desea ingresar.
+- El programa se va repetir dependiendo de la cantidad se sueldos escribio el usuario
+- Va a pedir cantidades esas n de veces
+- Esas cantidades las va sumar todas y las debe mostrar en consola
+- Si el sueldo ingresado es mayor a 1000 debe de imprimirlos en consola
+
+3) Par o Inpar
+- El usuario debe de ingresar un numero
+- El programa debe repetirse hasta que se digite el 0
+- Si el numero ingresado es par debe de imprimirlo en consola
+- De lo contrario es inpar debe de imprimirlo en consola
+
+4) Sumar Usuarios
+- El programa debe guardar cuantos numeros se desean ingresar
+- Se debe guardar los numeros ingresados segun la n cantidad que el usuario digito
+- Debe hacer la suma de todos los numeros ingresados
+- Debe indicar cual es el numero mayor que se ingreso
+- Dene indicar cual es el numero menor que se ingreso
+- Si solo si ingresa un numero ese debe ser el mayor y menor
+- Imprimir todos los datos en consola
+
+5) Positivo o Negativo
+- Pedirle al usuario que ingrese un numero
+- El programa se debe de detener cuando se digita el 0
+- Si el numero es mayor a 1 debe imprimir que es positivo
+- Si el numero es menor a 1 debe imprimir que es negativo
